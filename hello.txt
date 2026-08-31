@@ -1,3 +1,7 @@
 hello git
 this is my second line
+<<<<<<< HEAD
 change from amin
+=======
+change from test
+>>>>>>> test
